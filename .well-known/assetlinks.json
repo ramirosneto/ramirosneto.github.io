@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "br.com.rntec.quiz",
+    "sha256_cert_fingerprints": [
+      "28:C1:3A:73:9D:6F:D7:AC:82:C4:84:BA:C2:EF:2A:EB:6A:E5:7A:26:B2:C9:39:C7:13:73:57:FB:02:C0:FD:2E" 
+    ]
+  }
+}]
