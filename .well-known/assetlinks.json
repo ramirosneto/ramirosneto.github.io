@@ -1,10 +1,16 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "br.com.rntec.quiz",
-    "sha256_cert_fingerprints": [
-      "28:C1:3A:73:9D:6F:D7:AC:82:C4:84:BA:C2:EF:2A:EB:6A:E5:7A:26:B2:C9:39:C7:13:73:57:FB:02:C0:FD:2E" 
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.rntec.quiz",
+      "sha256_cert_fingerprints": [
+        "28:C1:3A:73:9D:6F:D7:AC:82:C4:84:BA:C2:EF:2A:EB:6A:E5:7A:26:B2:C9:39:C7:13:73:57:FB:02:C0:FD:2E",
+        "41:79:D0:06:56:6D:1E:07:9C:34:40:9A:65:E1:BE:7D:76:AE:56:34:C0:9B:4C:88:9F:22:08:8F:1D:22:C2:F2"
+      ]
+    }
   }
-}]
+]
